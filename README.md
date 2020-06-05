@@ -91,6 +91,7 @@ Install the [EditorConfig](https://marketplace.visualstudio.com/items?itemName=E
 - [Lint staged](https://github.com/okonet/lint-staged)
 - [Jest](https://jestjs.io/)
 - [Enzyme](https://enzymejs.github.io/enzyme/)
+- [Web Extension Polyfill](https://www.npmjs.com/package/webextension-polyfill)
 - [Webpack Chrome Extension Reloader](webpack-chrome-extension-reloader)
 
 ## References
