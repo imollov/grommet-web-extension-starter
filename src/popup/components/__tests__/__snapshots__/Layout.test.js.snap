@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout Component should match snapshot 1`] = `
+<Grommet
+  theme={
+    Object {
+      "button": Object {
+        "extend": Array [
+          [Function],
+        ],
+      },
+      "global": Object {
+        "colors": Object {
+          "background": Object {
+            "dark": "#000000",
+            "light": "#ffffff",
+          },
+        },
+        "font": Object {
+          "family": "-apple-system,
+         BlinkMacSystemFont, 
+         \\"Segoe UI\\", 
+         Roboto, 
+         Oxygen, 
+         Ubuntu, 
+         Cantarell, 
+         \\"Fira Sans\\", 
+         \\"Droid Sans\\",  
+         \\"Helvetica Neue\\", 
+         Arial, sans-serif,  
+         \\"Apple Color Emoji\\", 
+         \\"Segoe UI Emoji\\", 
+         \\"Segoe UI Symbol\\"",
+        },
+      },
+    }
+  }
+>
+  <Box
+    height={
+      Object {
+        "min": "350px",
+      }
+    }
+    width={
+      Object {
+        "min": "350px",
+      }
+    }
+  >
+    <div>
+      Test
+    </div>
+  </Box>
+</Grommet>
+`;

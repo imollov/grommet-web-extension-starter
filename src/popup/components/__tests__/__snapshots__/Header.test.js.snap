@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component should match snapshot 1`] = `
+<Header
+  background="brand"
+  justify="center"
+>
+  <Gremlin />
+  <Heading
+    level={1}
+    responsive={true}
+    size="small"
+  >
+    Sample Extension
+  </Heading>
+</Header>
+`;

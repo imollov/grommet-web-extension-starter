@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Content Component should match snapshot 1`] = `
+<Box
+  align="center"
+  flex={true}
+  gap="large"
+  pad="large"
+>
+  <Text
+    level={1}
+  >
+    Powered by Grommet
+  </Text>
+  <Button
+    icon={
+      <Send
+        color="brand"
+      />
+    }
+    label="Message Background"
+    onClick={[Function]}
+  />
+</Box>
+`;

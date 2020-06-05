@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Component should match snapshot 1`] = `
+<Footer
+  background="brand"
+  pad="medium"
+>
+  <Anchor
+    href="https://v2.grommet.io/docs"
+    label="Docs"
+    onClick={[Function]}
+  />
+  <Anchor
+    href="https://v2.grommet.io/components"
+    label="Components"
+    onClick={[Function]}
+  />
+  <Anchor
+    href="https://storybook.grommet.io"
+    label="Storybook"
+    onClick={[Function]}
+  />
+</Footer>
+`;
