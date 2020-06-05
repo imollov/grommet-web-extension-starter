@@ -4,6 +4,8 @@ Web extension starter kit built with Grommet, React, Styled Components, Babel, W
 
 Compatible with Google Chrome, Mozilla Firefox, Microsoft Edge and Brave Browser.
 
+<img width="350" alt="Popup screenshot" src="https://user-images.githubusercontent.com/482351/83855927-77916c80-a721-11ea-8f41-af3475477924.png">
+
 ## Getting Started
 
 Install dependencies and start local development
