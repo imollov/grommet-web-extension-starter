@@ -4,7 +4,7 @@
   "description": "Sample Extension",
   "scripts": {
     "build": "webpack --config webpack.prod.js",
-    "start": "webpack -w --config webpack.dev.js",
+    "start": "webpack --config webpack.dev.js",
     "test": "jest",
     "lint": "eslint src",
     "prettify": "prettier --write src/**/*.{js,json}"
